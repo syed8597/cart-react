@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
+// import { BrowserRouter as Router, Routes, Route, BrowserRouter } from 'react-router-dom';
 import Navbar from './component/Navbar';
 import About from './component/About';
 import TextForm from './component/TextForm';
